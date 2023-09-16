@@ -1,0 +1,15 @@
+C:\Users\usuario\source\repos\Proyecto_Listas,Colas y Arreglos\bin\Debug\Proyecto_Listas,Colas y Arreglos.exe.config
+C:\Users\usuario\source\repos\Proyecto_Listas,Colas y Arreglos\bin\Debug\Proyecto_Listas,Colas y Arreglos.exe
+C:\Users\usuario\source\repos\Proyecto_Listas,Colas y Arreglos\bin\Debug\Proyecto_Listas,Colas y Arreglos.pdb
+C:\Users\usuario\source\repos\Proyecto_Listas,Colas y Arreglos\obj\Debug\Proyecto_Listas,Colas y Arreglos.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Proyecto_Listas,Colas y Arreglos\obj\Debug\Proyecto_Listas,Colas y Arreglos.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\source\repos\Proyecto_Listas,Colas y Arreglos\obj\Debug\Proyecto_Listas_Colas_y_Arreglos.frmLogin.resources
+C:\Users\usuario\source\repos\Proyecto_Listas,Colas y Arreglos\obj\Debug\Proyecto_Listas_Colas_y_Arreglos.Properties.Resources.resources
+C:\Users\usuario\source\repos\Proyecto_Listas,Colas y Arreglos\obj\Debug\Proyecto_Listas,Colas y Arreglos.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Proyecto_Listas,Colas y Arreglos\obj\Debug\Proyecto_Listas,Colas y Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Proyecto_Listas,Colas y Arreglos\obj\Debug\Proyecto_Listas,Colas y Arreglos.exe
+C:\Users\usuario\source\repos\Proyecto_Listas,Colas y Arreglos\obj\Debug\Proyecto_Listas,Colas y Arreglos.pdb
+C:\Users\usuario\source\repos\Proyecto_Listas,Colas y Arreglos\obj\Debug\Proyecto_Listas_Colas_y_Arreglos.Menu.resources
+C:\Users\usuario\source\repos\Proyecto_Listas,Colas y Arreglos\obj\Debug\Proyecto_Listas_Colas_y_Arreglos.Cola.resources
+C:\Users\usuario\source\repos\Proyecto_Listas,Colas y Arreglos\obj\Debug\Proyecto_Listas_Colas_y_Arreglos.Lista.resources
+C:\Users\usuario\source\repos\Proyecto_Listas,Colas y Arreglos\obj\Debug\Proyecto_Listas_Colas_y_Arreglos.Pila.resources
